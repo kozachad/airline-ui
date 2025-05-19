@@ -47,4 +47,5 @@ You can find technical and architectural details in the main AI Agent repository
 
 **Name:** Kaan Mert Kozalı  
 **Course:** SE4458 Assignment-2 
+
 **Project Theme:** Flight Reservation System – React UI
